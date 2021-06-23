@@ -1,0 +1,6 @@
+Weather Stats for - ALUVA  || 23 Jun 2021 | 03:32:38 PM
+-------------------------------------------------------------
+Current temperature is: 29.97 deg C
+Current weather desc  :haze
+Current Humidity      :74%
+Current wind speed    :3.6kmph
